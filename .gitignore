@@ -274,3 +274,8 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+#terraform variables file
+*.tfvars
+*.tfstate
+*.backup
